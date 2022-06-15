@@ -17,6 +17,11 @@ public class Demo {
 	{
 		System.out.println("This is M1 method");
 	}
+	
+	public void m4()
+	{
+		System.out.println("This is M1 method.... branch master");
+	}
 	public static void main(String[] args)
 	{
   
