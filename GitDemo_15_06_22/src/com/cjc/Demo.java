@@ -3,7 +3,10 @@ package com.cjc;
 public class Demo {
 
 	
-	
+	public void m2()
+	{
+		System.out.println("This is M2 method");
+	}
 	
 	public void m1()
 	{
